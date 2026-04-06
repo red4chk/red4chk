@@ -18,6 +18,7 @@
 
 ###
 
+
 ###
 
 <h3 align="left">🛠 Tech Stack</h3>
@@ -97,9 +98,33 @@
 </div>
 
 ###
+###
+
+GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+</p>
+
+
+###
 
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFrZXowY2doN2Vpbm51bzJyeXRzMWtpc2Vxd3MwbzRveTVncHFlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j3ohJ2YLHMQyZMtJAs/giphy.gif"  />
 </div>
+
+###
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ###
