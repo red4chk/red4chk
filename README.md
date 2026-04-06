@@ -6,6 +6,11 @@
 <h3 align="center">👩‍💻 A passionate AI and Data Engineering student from Morocco</h3>
 
 ###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=red4chk&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+###
 
 <p align="left">
 - 🔭 I’m looking for opportunities in Data Engineering<br>
