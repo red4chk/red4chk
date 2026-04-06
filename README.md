@@ -5,6 +5,8 @@
 
 <h3 align="center">👩‍💻 A passionate AI and Data Engineering student from Morocco</h3>
 
+###
+
 <p align="left">
 - 🔭 I’m looking for opportunities in Data Engineering<br>
 - 📚 I'm currently learning Apache Spark, Apache Kafka, Node.js<br>
@@ -16,11 +18,13 @@
 
 ###
 
+###
+
 <h3 align="left">🛠 Tech Stack</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
