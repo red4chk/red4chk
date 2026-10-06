@@ -3,7 +3,7 @@
 ###
 
 
-<h3 align="center">👩‍💻 A passionate AI and Data Engineering student from Morocco</h3>
+<h3 align="center">👩‍💻 A passionate AI and Data Engineering student</h3>
 
 ###
 <p align="center">
