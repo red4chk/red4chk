@@ -14,7 +14,6 @@
 
 <p align="left">
 - 🔭 I’m looking for opportunities in Data Engineering and Data Science<br>
-- 📚 I'm currently learning Apache Spark, Apache Kafka , Cloud and DevOPS<br>
 - 📫 How to reach me 
 <a href="mailto:r.chawki311@gmail.com" style="color:#1E90FF; text-decoration:none;">
   r.chawki311@gmail.com
